@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_global_contact_informations",
+  "info": {
+    "displayName": "contact_info",
+    "icon": "address-book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "email": {
+      "type": "string"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "facebook": {
+      "type": "string"
+    }
+  }
+}

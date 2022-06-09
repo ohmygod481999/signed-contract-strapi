@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_global_default_seos",
+  "info": {
+    "displayName": "default_seo",
+    "icon": "info"
+  },
+  "options": {},
+  "attributes": {
+    "meta_title": {
+      "type": "string"
+    }
+  }
+}
