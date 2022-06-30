@@ -47,6 +47,16 @@
       "type": "component",
       "repeatable": false,
       "component": "global.default-seo"
+    },
+    "secondary_logo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
     }
   }
 }
