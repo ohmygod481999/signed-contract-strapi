@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "brochures",
+  "info": {
+    "singularName": "brochure",
+    "pluralName": "brochures",
+    "displayName": "Brochure",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "brochure_images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
