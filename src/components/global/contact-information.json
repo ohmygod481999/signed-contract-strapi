@@ -15,6 +15,9 @@
     },
     "facebook": {
       "type": "string"
+    },
+    "insta": {
+      "type": "string"
     }
   }
 }
